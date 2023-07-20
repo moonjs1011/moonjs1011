@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div class ='badge'>
+  <img src='https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat'>
+  <img src='https://img.shields.io/badge/-C-000000?logo=c%2B%2B&style=flat'>
+  
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjs1011&show_icons=true&theme=radical)
