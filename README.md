@@ -1,7 +1,6 @@
-<div class ='badge'>
-  <img src='https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat'>
-  <img src='https://img.shields.io/badge/-C-000000?logo=c%2B%2B&style=flat'>
-  
+<div class ="badge" style="text-align: center;">
+  <img src='https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat&logoColor=blue'>
+  <img src='https://img.shields.io/badge/-C-000000?logo=c%2B%2B&style=flat&logoColor=blue'>
 </div>
 
 
