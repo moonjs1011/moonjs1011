@@ -8,22 +8,28 @@
   <strong>"지속적으로 성장하고, 탄탄한 서비스를 구축하는 백엔드 개발자입니다."</strong>
 </p>
 
-
 <div align="center">
   <h3>🌱</h3>
   <img src="https://ghchart.rshah.org/moonjs1011" alt="moonjs1011's GitHub Contributions" />
 </div>
 <br>
+
 ---
 
 ### 💻 Tech Stack & Skills
 
-#### 🧑‍💻 Backend
+#### 🛠️ Language
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+
+#### 🧑‍💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 #### 🗄️ Database
@@ -33,11 +39,16 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-#### ☁️ Infra
+#### ☁️ Infra & ELK
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
 </p>
-
 
 #### 🛠️ Tools & DevOps
 <p>
@@ -54,17 +65,17 @@
 
 ### 🏢 Sub Project
 제가 진행했던 또 다른 프로젝트입니다!
-- 🎓 [**InhacapstoneProject**](https://github.com/InhacapstoneProject)
-- 🚗 [**InhaVRoomVRoom**](https://github.com/InhaVRoomVRoom)
+- 🤖  [**InhacapstoneProject**](https://github.com/InhacapstoneProject)
+- 🥽 [**InhaVRoomVRoom**](https://github.com/InhaVRoomVRoom)
 
 ---
 
-### 🛠️ Algorithm Solving
+###  Algorithm Solving
 
-꾸준히 알고리즘 공부를 해왔습니다!:
+꾸준히 알고리즘 공부를 해왔습니다!
 
 - **Algorithm Solving**: 
-  - [`JavaAlgorithm`](https://github.com/moonjs1011/JavaAlgorithm) - Java 기반 알고리즘 문제 풀이
+  - 📚 [`JavaAlgorithm`](https://github.com/moonjs1011/JavaAlgorithm) - Java 기반 알고리즘 문제 풀이
 
 ---
 
