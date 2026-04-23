@@ -186,7 +186,6 @@
 GitHub Pages 로 운영 중인 개인 홈페이지/블로그입니다. 학습 기록과 프로젝트 회고를 점진적으로 정리하고 있어요.
 
 🔗 **Homepage** — <https://moonjs1011.github.io>
-📁 **Repository** — [moonjs1011/moonjs1011.github.io](https://github.com/moonjs1011/moonjs1011.github.io)
 
 <br/>
 
