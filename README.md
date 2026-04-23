@@ -177,16 +177,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=moonjs1011&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=6B7280" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonjs1011&layout=compact&hide_border=true&title_color=3B82F6&text_color=6B7280&langs_count=8" height="165" alt="Top Languages" />
 
-</div>
-
-### 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=moonjs1011&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&sideLabels=6B7280&dates=6B7280" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ## 📝 Blog & Contact · 블로그와 연락처
